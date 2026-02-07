@@ -1,0 +1,21 @@
+# Rust
+target/
+**/*.rs.bk
+Cargo.lock
+
+# RustRover
+.idea/
+*.iml
+*.iws
+
+# Sistema
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Ejecutables
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
