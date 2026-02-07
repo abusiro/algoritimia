@@ -1,2 +1,3 @@
 [workspace]
 members = ["ejercicios/*"]
+resolver = "3"
